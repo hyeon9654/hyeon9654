@@ -1,6 +1,6 @@
 
 # PARK HYEONMIN
-
+![PARK HYEONMIN 타이핑 애니메이션](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=34&duration=2500&pause=1800&color=E6EDF3&background=0D1117&vCenter=true&width=480&height=66&lines=%3E+PARK+HYEONMIN)
 ### 모든 시작은 코드에서 부터.
 
 **BACKEND DEVELOPMENT · AI INTEGRATION · ENGINEERING NOTES**
