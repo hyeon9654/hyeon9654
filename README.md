@@ -1,7 +1,7 @@
 
 # PARK HYEONMIN
 
-### 요청과 응답 사이를 설계합니다.
+### 모든 시작은 코드에서 부터.
 
 **BACKEND DEVELOPMENT · AI INTEGRATION · ENGINEERING NOTES**
 
